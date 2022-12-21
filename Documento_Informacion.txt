@@ -1,0 +1,6 @@
+Creacion Dashboard
+Codigo Completo: kevinleandrodl@gmail.com
+Descomprimir el .zip
+Inventario de Stock
+Inventario de Entradas
+Inventario de Salidas
